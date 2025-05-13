@@ -1,4 +1,4 @@
-# Salon Web Admin App (Laravel 9.2)
+# Petvax Web Admin App (Laravel 9.2)
 
 #### Run Below Command For PHP Code Styling
 - "pre-commit": "./vendor/bin/pint"
@@ -11,7 +11,7 @@
 
 ## Database Setup
 - configure db config in .env file 
-    - ``DB_DATABASE=salon``
+    - ``DB_DATABASE=petvax``
     - ``DB_USERNAME``
     - ``DB_PASSWORD`` 
 - Run `php artisan migrate:fresh --seed` command for add all tables to your database
